@@ -6,12 +6,7 @@ var chocolateBars = [
   ]
   
 function addElementToBeginningOfArray() {
-  var desserts = [
-    'cake',
-    'icecream',
-    'pie'
-    ]
-    
+  var array()
   return ['mousse', ...desserts]; 
 }
 
